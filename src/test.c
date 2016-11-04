@@ -1,5 +1,9 @@
 #include<stdio.h>
-void test_fun(void)
+/* add test_fun function */
+int test_fun(void)
 {
     printf("this is test function\r");
+
+    return 1;
 }
+
